@@ -5,8 +5,7 @@ public class Looptest {
 		for (int count = 1;  count < 8; count ++)
 		{ System.out.println(count);
 		}
-		
-
+	
 	}
 
 }
