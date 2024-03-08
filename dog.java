@@ -17,6 +17,7 @@ public class dog {
 	public static void main(String[] args) {
 		
 		dog dogclass = new dog();  /* all that is presented inside this class it is wrapped in this object*/
+						 /* a class is a collection of objects */
 		
 		System.out.println(dogclass.name + " is a  "+ dogclass.breed);
 dogclass.barking();
